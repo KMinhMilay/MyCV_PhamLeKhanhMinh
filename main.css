@@ -8,6 +8,7 @@
     height: 180px;
     background-color: white !important;
     box-shadow: 5px 5px 10px grey !important;
+    border: 2px solid black;
 }
 .div-center{
     display: flex;
@@ -74,4 +75,7 @@ a{
     text-decoration: none;
     font-weight: bold;
     color: black !important;
+}
+.margin-top{
+    margin-top:20px
 }
